@@ -1,2 +1,2 @@
 # Broadway
-This is just a simple test HTML project
+This is a web page project
